@@ -1,6 +1,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
+// this component is redundant for Hello Minimal site but it's left here to see an example of using gatsby-image
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
