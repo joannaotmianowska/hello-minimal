@@ -5,7 +5,7 @@ import './header.scss';
 
 const Header = ({ siteTitle }) => (
   <header
-    className="test"
+    className="header-container"
   >
     <h1 style={{ margin: 0 }}>
         <Link
